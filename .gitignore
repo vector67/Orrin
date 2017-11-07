@@ -6,6 +6,9 @@ __pycache__/
 # Sublime
 *.sublime-*
 
+# Temporary program created files
+_session.dat
+
 # C extensions
 *.so
 

@@ -1,2 +1,5 @@
-LT_USERNAME=
 LT_PASSWORD=
+LT_USERNAME=
+SESSION_FILE=_session.dat
+FORUM_URL=http://forums.ltheory.com/
+USER_AGENT=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Safari/604.1.38
